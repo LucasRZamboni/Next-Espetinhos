@@ -1,8 +1,8 @@
 
 export default function Home() {
   return (
-    <main>
+    <div>
       Espetinhos do Galo
-    </main>
+    </div>
   );
 }
